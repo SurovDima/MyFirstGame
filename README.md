@@ -24,3 +24,8 @@ A simple 2D game where the player controls a character and avoids falling enemie
 ## 👨‍💻 Author
 
 Dmytro Surov
+  ## 📸 Screenshots
+
+![Game screenshot 1](Start game.png)
+
+![Game screenshot 2](game.png)
