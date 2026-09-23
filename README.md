@@ -29,3 +29,12 @@ Dmytro Surov
 ![Game screenshot 1](first.png)
 
 ![Game screenshot 2](game.png)
+## ▶️ How to run
+
+1. Install Python 3.13 or newer.
+2. Install Pygame:
+   `pip install pygame`
+3. Download this repository.
+4. Open the project folder.
+5. Run:
+   `python game.py`
